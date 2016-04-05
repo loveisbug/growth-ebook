@@ -1,2 +1,2 @@
-% Growth: 深入浅出全栈工程师
+% Growth: 全栈增长工程师指南
 % Phodal
